@@ -1,0 +1,9 @@
+[Unit]
+Description=Plays the Imperial March
+
+[Service]
+ExecStart=/usr/bin/imperial start
+ExecStop=/usr/bin/imperial stop
+
+[Install]
+WantedBy=basic.target
