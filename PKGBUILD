@@ -2,16 +2,16 @@
 # Maintainer: Itay Grudev <itay@grudev.com>
 
 pkgname=imperial
-pkgver=1.0
-pkgrel=1
+pkgver=1.1
+pkgrel=0
 pkgdesc='Plays the Imperial March using the beep utility'
-arch=('i686' 'x86_64')
+arch=('any')
 url='https://github.com/itay-grudev/imperial'
 license=('mit')
 depends=('beep')
 source=("$pkgname-$pkgver.tar.gz::https://github.com/itay-grudev/imperial/archive/$pkgver.tar.gz"
 	"https://raw.githubusercontent.com/itay-grudev/imperial/arch/imperial.service")
-md5sums=('90436f0ecf5a066cb54e3805187a5da5'
+md5sums=('a96a83feaa767b2784e5c2f4cfdafc8e'
          'bcfe5ab48b096ad8fdbac87990ba02d8')
 
 build() {
