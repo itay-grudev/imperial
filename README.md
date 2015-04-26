@@ -17,6 +17,13 @@ Requirements
 ------------
 Imperial heavily realies on the ```beep``` utility.
 
+_P.S. Depending on your system configuration, beep may need elevetaed 
+permissions._
+```
+# So use the force!
+sudo imperial march
+```
+
 Packages
 --------
 Imperial is now available as a package for [Arch](https://www.archlinux.org/) in the [AUR](https://aur.archlinux.org/packages/imperial/). You can also check the [Arch Branch](https://github.com/itay-grudev/imperial/tree/arch) for the ```PKGBUILD```.
