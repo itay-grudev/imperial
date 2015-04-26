@@ -11,8 +11,11 @@ Usage: imperial (march|start|stop)
     imperial march - Starts playing the Imperial March
     imperial stop  - Stops playing the Imperial March
     imperial start - A more formal way of playing the Imperial March
-
 ```
+
+Packages
+--------
+Imperial is now available as a package for [Arch](https://www.archlinux.org/) in the [AUR](https://aur.archlinux.org/packages/imperial/). You can also check the [Arch Branch](https://github.com/itay-grudev/imperial/tree/arch) for the ```PKGBUILD```.
 
 Copyright
 ---------
