@@ -15,9 +15,9 @@ Usage: imperial (march|start|stop)
 
 Requirements
 ------------
-Imperial heavily realies on the ```beep``` utility.
+Imperial heavily relies on the ```beep``` utility.
 
-_P.S. Depending on your system configuration, beep may need elevetaed 
+_P.S. Depending on your system configuration, beep may need elevated 
 permissions._
 ```
 # So use the force!
@@ -26,7 +26,7 @@ sudo imperial march
 
 Packages
 --------
-Imperial is now available as a package for [Arch](https://www.archlinux.org/) in the [AUR](https://aur.archlinux.org/packages/imperial/). You can also check the [Arch Branch](https://github.com/itay-grudev/imperial/tree/arch) for the ```PKGBUILD```.
+Imperial is now available as a package for [Arch](https://www.archlinux.org/) in the [AUR](https://aur.archlinux.org/packages/imperial/). You can also check the [Arch Branch](https://github.com/itay-grudev/imperial/tree/arch) for the ```PKGBUILD``` file.
 
 Copyright
 ---------
